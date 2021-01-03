@@ -108,9 +108,9 @@ public class SecondActivity extends AppCompatActivity {
                 double d2 = Double.parseDouble(last_name.getText().toString());
                 double cu = (d1*d1*d1);
                 double cu1 = (d2*d2*d2);
-                Toast.makeText(getApplicationContext(), "first number square root is " +cu, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "first number cube root is " +cu, Toast.LENGTH_SHORT).show();
 
-                Toast.makeText(getApplicationContext(), "Second number square root is " +cu1, Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(), "Second number cube root is " +cu1, Toast.LENGTH_SHORT).show();
 
 
             }
