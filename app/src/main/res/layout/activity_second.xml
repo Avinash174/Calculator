@@ -131,7 +131,7 @@
            android:layout_marginLeft="15dp"
             android:text="X^3"
             android:textSize="30sp"
-            app:backgroundTint="#E91E63" />
+            app:backgroundTint="#8BC34A" />
 
     </LinearLayout>
 
